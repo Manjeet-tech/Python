@@ -45,13 +45,12 @@
 
 ## 6. Python Development and Versions
 
-    ![Refer](https://www.python.org/psf-landing/)
-    ![Refer](https://peps.python.org/)
-    ![Refer](https://peps.python.org/pep-0020/)
-    ![Style Guide](https://peps.python.org/pep-0008/)
+   ### [Refer](https://www.python.org/psf-landing/)
+   ### [Refer](https://peps.python.org/)
+   ### [Zyne of Python](https://peps.python.org/pep-0020/)
+   ### [Style Guide](https://peps.python.org/pep-0008/)
 
-
-## 7. Pyhon Installations
+  ## 7. Python Installations
 
 
 
