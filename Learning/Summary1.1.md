@@ -50,7 +50,28 @@
    ### [Zyne of Python](https://peps.python.org/pep-0020/)
    ### [Style Guide](https://peps.python.org/pep-0008/)
 
-  ## 7. Python Installations
+## 7. Python Installations
+    - Using choclaty
+
+
+# 24-jul-2020
+
+## 8. Built-in functions
+    - type()
+    - id()
+
+
+![image](../images/py1.png)
+
+## 9. Assignment of variables
+#### Note: When we are assigning variable values to other variables both will be pointing out to same memory location.
+![image](../images/py2.png)
+
+
+
+   
+
+
 
 
 
