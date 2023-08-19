@@ -68,6 +68,105 @@
 ![image](../images/py2.png)
 
 
+# 25-jul-2020
+
+## 10. Python Conceptual Hiererchy
+    
+![image](../images/py3.png)
+
+## 11. Python's core data types (Built-in-Objects)
+
+    - Numbers
+    - Strings
+    - List
+    - Tuples
+    - Dictionaries
+    - Files
+    - Sets
+    - Boolean
+    - None
+    - Functions, Modules, classes
+    - Compiled code, Stack tracebacks
+
+## 12. Operators
+
+    - +,*, /, %, ==, != 
+
+## 13. Data types for handeling numeric types
+
+    - Integrer and floating point Objects
+    - Complex Number Objects
+    - Decimal Objects
+    - Fractional
+    - Sets
+
+# 27-jul-2020
+
+## 14. Built-in mathematical operators:
+
+    - pow, abs, round, int, hex, bin
+
+## 15. Operator Precedence
+
+![image](../images/py4.png)
+
+#### *Use Paratesis() -> addition first and then mltiplication
+
+![image](../images/py5.png)
+
+## 16. Mixed Types are converted up
+
+    - use of int(), float()
+
+##
+![image](../images/py6.png)
+
+# 28-jul-2020
+
+## 17. Comparisions
+
+    - operators < > <= >= == !=
+
+### Normal Comparision
+![image](../images/py7.png)
+
+### Chained Comparision
+![image](../images/py8.png)
+
+## 18. Integer Precisions
+    - python supports integers of unlimited size
+
+## 19. Decimal Precisions
+
+![image](../images/py9.png)
+
+## 20. Built-in Numeric tools
+    - import math
+    - math.pow()
+    - math.sqrt()
+    - min()
+    - max()
+    - round()
+    - import random
+    - random.random()
+    - random.randint(1,100)
+
+## 21. Understanding list
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
 
    
 
