@@ -1,0 +1,11 @@
+maths = float(input('enter maths marks: '))
+physics = float(input('enter physics marks: '))
+chemistry = float(input('enter chemistry marks: '))
+average = (maths + physics + chemistry) / 3
+print ('average: ' ,average)
+if average >= 80:
+    print('first division')
+elif average >=60:
+    print('second division')
+else:
+    print('third division')

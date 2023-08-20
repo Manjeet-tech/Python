@@ -153,7 +153,35 @@
 
 ## 21. Understanding list
 
+![image](../images/py10.png)
 
+# 29-jul-2020
+
+## 22. Python Statement
+
+![image](../images/py11.png)
+
+## 23. Debugging in vs code editor
+
+#
+# 30-jul-2020
+
+## 24. Conditional Statement
+
+    - if <condition>:
+            <block>
+
+##  
+    - if <condition>:
+            <true-block>
+      else:
+            <false block>
+
+
+
+## 25. Write a program which will tell if the number is even or odd.
+
+## 26. Write a program which calculates average of 3 subjects and gives them grades.
 
 
 
